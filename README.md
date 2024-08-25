@@ -1,5 +1,5 @@
-# Moonshot-Trending
-Moonshot Trending Bot with Built-In Browser And TorProxy 
+# Moonshot / PumpFun / SunPump Trending
+Moonshot / PumpFun / SunPump Trending Bot with Built-In Browser And TorProxy 
 
 ![DextoolsTrendingGif](https://raw.githubusercontent.com/benzoicacidchloride/Dextools-Trending/main/DextoolsTrending.gif)
 
@@ -11,7 +11,7 @@ As a result, you don't need any paid proxy services.
 
 ## Usage
 - Run Moonshot
-- Enter the Moonshot token page link.
+- Enter the Moonshot / PumpFun / SunPump token page link.
 - Click the "Start Tor Proxy and Check Cloudflare" button. (On the first use, the torproxy and privoxy software will be extracted to the working directory.)
 - After the page loads, if the Cloudflare page appears, wait for the browser verification to finish.
 - Click the checkbox "Start Trending Loop (Press If There Is No Cloudflare Detection)."
